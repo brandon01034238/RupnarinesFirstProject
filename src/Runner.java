@@ -9,5 +9,6 @@ public class Runner {
         } else {
             System.out.println("Cats are Cool");
         }
+        System.out.println("We need " + cats + "pieces of cat food");
     }
 }
